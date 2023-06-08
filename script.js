@@ -80,3 +80,6 @@ async function getDatos(){
         console.log(error);
     }
 } 
+
+window.console.log() = () => {}
+window.console.log = () => {}
